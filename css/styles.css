@@ -35,6 +35,12 @@ hr {
 
 a {
   color: #11999E;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+a:hover{
+  color: #EAF6F6;
 }
 
 .myskill {
@@ -92,7 +98,7 @@ a {
 
 .bottom-container {
   background-color: #66BFBF;
-  padding-top: 30px;
+  padding-top: 50px;
   height: 130px;
 }
 
@@ -152,7 +158,7 @@ span {
 .credits {
   margin-top: 40px;
   color: #EAF6F6;
-  margin-bottom: 0;
+  font-size: 0.75rem;
 }
 
 .pizza-term {
